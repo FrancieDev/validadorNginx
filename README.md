@@ -1,6 +1,5 @@
 # validadorNginx
 
-README 
 APLICAÇÃO DE MONITORAMENTO DO NGINX
 
 Introdução
